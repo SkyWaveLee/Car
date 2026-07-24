@@ -2,6 +2,8 @@ Origincar
 Team: Once it's better, let's go party Team<br>
 School: Harbin Institute of Technology (Weihai)<br>
 Team Leader: Li Chengmou<br>
+Contact number: 15266101491<br>
+Team members: Lin Yin, Liu Wanyun, Li Zhengshuo, Tang Yiqiao<br>
 Model Used: RDK S100<br>
 Competition Mode: Fully Automatic Mode<br>
 Overview of Technical Approach and System Composition:<br>
