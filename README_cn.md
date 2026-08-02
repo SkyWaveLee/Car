@@ -129,7 +129,6 @@ rdk-x5-main/
 | SLAM Toolbox (online_async) | 支持大场景在线建图, Karto 后端 |
 | Qwen | 云端大模型, 医疗场景语义理解能力强 |
 | WeChatQRCode (OpenCV) | 轻量级, 中文场景优化 |
-| SmacPlanner2D | 全局规划 |
 
 
 ---
